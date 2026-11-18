@@ -4,7 +4,7 @@ programa {
     
     escreva("----Quiz de Ordem------")
     escreva("")
-    escreva("\nVc capiturado pelo estrangeiro. Deve responter 6 perguntas para")
+    escreva("\nVc foi capiturado pelo estrangeiro. Deve responter 6 perguntas para")
     escreva(" ser liberto.")
 
     
